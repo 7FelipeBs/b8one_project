@@ -113,6 +113,7 @@
 .productPc--discount{
     color: #DA4B4F;
     font-size: 1.5rem;
+    font-weight: bold;
 }
 
 .productPc--quota {
@@ -121,7 +122,8 @@
 }
 
 .productPc--quota .formatQuota{
-    color: rgb(12, 12, 12);
+    color: rgba(29, 29, 29, 0.932);
+    font-weight: bolder;
 }
 
 /* btn not active */
