@@ -1,10 +1,3 @@
-# Project of practice test B8one
+B8One Front end
 
-## Available Scripts
-
-### `yarn start`
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-### `yarn build`
-Runs the app in the production mode
+Para utilizar o projeto sem problemas, rode o comando `npm install` e para o subir o projeto utiliza `yarn start`
